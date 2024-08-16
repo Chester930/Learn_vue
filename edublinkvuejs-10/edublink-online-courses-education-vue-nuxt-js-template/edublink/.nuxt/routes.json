@@ -1,0 +1,324 @@
+[
+  {
+    "name": "about-us-one",
+    "path": "/about-us-one",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\about-us-one.vue",
+    "chunkName": "pages/about-us-one",
+    "_name": "_13ea38f9"
+  },
+  {
+    "name": "about-us-three",
+    "path": "/about-us-three",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\about-us-three.vue",
+    "chunkName": "pages/about-us-three",
+    "_name": "_44cb0171"
+  },
+  {
+    "name": "about-us-two",
+    "path": "/about-us-two",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\about-us-two.vue",
+    "chunkName": "pages/about-us-two",
+    "_name": "_2c51e9df"
+  },
+  {
+    "name": "coming-soon",
+    "path": "/coming-soon",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\coming-soon.vue",
+    "chunkName": "pages/coming-soon",
+    "_name": "_93639496"
+  },
+  {
+    "name": "contact-me",
+    "path": "/contact-me",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\contact-me.vue",
+    "chunkName": "pages/contact-me",
+    "_name": "_409351e7"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_4eff5fed"
+  },
+  {
+    "name": "distant-learning",
+    "path": "/distant-learning",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\distant-learning.vue",
+    "chunkName": "pages/distant-learning",
+    "_name": "_98fab328"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_9f18aaf8"
+  },
+  {
+    "name": "gallery-grid",
+    "path": "/gallery-grid",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\gallery-grid.vue",
+    "chunkName": "pages/gallery-grid",
+    "_name": "_0f10dbe3"
+  },
+  {
+    "name": "gallery-masonry",
+    "path": "/gallery-masonry",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\gallery-masonry.vue",
+    "chunkName": "pages/gallery-masonry",
+    "_name": "_18d40990"
+  },
+  {
+    "name": "kindergarten",
+    "path": "/kindergarten",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\kindergarten.vue",
+    "chunkName": "pages/kindergarten",
+    "_name": "_7ec68948"
+  },
+  {
+    "name": "kitchen-coach",
+    "path": "/kitchen-coach",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\kitchen-coach.vue",
+    "chunkName": "pages/kitchen-coach",
+    "_name": "_591628c2"
+  },
+  {
+    "name": "landing-demo",
+    "path": "/landing-demo",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\landing-demo.vue",
+    "chunkName": "pages/landing-demo",
+    "_name": "_f69d7a4a"
+  },
+  {
+    "name": "my-account",
+    "path": "/my-account",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\my-account.vue",
+    "chunkName": "pages/my-account",
+    "_name": "_27bd170e"
+  },
+  {
+    "name": "online-academy",
+    "path": "/online-academy",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\online-academy.vue",
+    "chunkName": "pages/online-academy",
+    "_name": "_771d5574"
+  },
+  {
+    "name": "pricing-table",
+    "path": "/pricing-table",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\pricing-table.vue",
+    "chunkName": "pages/pricing-table",
+    "_name": "_084cee75"
+  },
+  {
+    "name": "privacy-policy",
+    "path": "/privacy-policy",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\privacy-policy.vue",
+    "chunkName": "pages/privacy-policy",
+    "_name": "_b860aece"
+  },
+  {
+    "name": "purchase-guide",
+    "path": "/purchase-guide",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\purchase-guide.vue",
+    "chunkName": "pages/purchase-guide",
+    "_name": "_ba933f9c"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index",
+    "_name": "_b654efec"
+  },
+  {
+    "name": "terms-condition",
+    "path": "/terms-condition",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\terms-condition.vue",
+    "chunkName": "pages/terms-condition",
+    "_name": "_6315f343"
+  },
+  {
+    "name": "university",
+    "path": "/university",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\university.vue",
+    "chunkName": "pages/university",
+    "_name": "_797b3ce0"
+  },
+  {
+    "name": "yoga-instructor",
+    "path": "/yoga-instructor",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\yoga-instructor.vue",
+    "chunkName": "pages/yoga-instructor",
+    "_name": "_17c756f0"
+  },
+  {
+    "name": "blog-blog-details",
+    "path": "/blog/blog-details",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\blog\\\\blog-details.vue",
+    "chunkName": "pages/blog/blog-details",
+    "_name": "_718ccb8a"
+  },
+  {
+    "name": "blog-blog-list",
+    "path": "/blog/blog-list",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\blog\\\\blog-list.vue",
+    "chunkName": "pages/blog/blog-list",
+    "_name": "_2a22fd16"
+  },
+  {
+    "name": "blog-blog-masonry",
+    "path": "/blog/blog-masonry",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\blog\\\\blog-masonry.vue",
+    "chunkName": "pages/blog/blog-masonry",
+    "_name": "_5f3aecbe"
+  },
+  {
+    "name": "blog-blog-standard",
+    "path": "/blog/blog-standard",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\blog\\\\blog-standard.vue",
+    "chunkName": "pages/blog/blog-standard",
+    "_name": "_66a81094"
+  },
+  {
+    "name": "course-course-details",
+    "path": "/course/course-details",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-details.vue",
+    "chunkName": "pages/course/course-details",
+    "_name": "_50f731ad"
+  },
+  {
+    "name": "course-course-details-2",
+    "path": "/course/course-details-2",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-details-2.vue",
+    "chunkName": "pages/course/course-details-2",
+    "_name": "_2b4328dc"
+  },
+  {
+    "name": "course-course-details-3",
+    "path": "/course/course-details-3",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-details-3.vue",
+    "chunkName": "pages/course/course-details-3",
+    "_name": "_2b26f9da"
+  },
+  {
+    "name": "course-course-five",
+    "path": "/course/course-five",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-five.vue",
+    "chunkName": "pages/course/course-five",
+    "_name": "_3660e952"
+  },
+  {
+    "name": "course-course-four",
+    "path": "/course/course-four",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-four.vue",
+    "chunkName": "pages/course/course-four",
+    "_name": "_213747cb"
+  },
+  {
+    "name": "course-course-one",
+    "path": "/course/course-one",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-one.vue",
+    "chunkName": "pages/course/course-one",
+    "_name": "_4e131d51"
+  },
+  {
+    "name": "course-course-three",
+    "path": "/course/course-three",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-three.vue",
+    "chunkName": "pages/course/course-three",
+    "_name": "_cf67a06e"
+  },
+  {
+    "name": "course-course-two",
+    "path": "/course/course-two",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-two.vue",
+    "chunkName": "pages/course/course-two",
+    "_name": "_667ace37"
+  },
+  {
+    "name": "event-event-details",
+    "path": "/event/event-details",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\event\\\\event-details.vue",
+    "chunkName": "pages/event/event-details",
+    "_name": "_f6627092"
+  },
+  {
+    "name": "event-event-grid",
+    "path": "/event/event-grid",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\event\\\\event-grid.vue",
+    "chunkName": "pages/event/event-grid",
+    "_name": "_078e27be"
+  },
+  {
+    "name": "event-event-list",
+    "path": "/event/event-list",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\event\\\\event-list.vue",
+    "chunkName": "pages/event/event-list",
+    "_name": "_3978a579"
+  },
+  {
+    "name": "instructor-instructor-one",
+    "path": "/instructor/instructor-one",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\instructor\\\\instructor-one.vue",
+    "chunkName": "pages/instructor/instructor-one",
+    "_name": "_1a1f37d5"
+  },
+  {
+    "name": "instructor-instructor-profile",
+    "path": "/instructor/instructor-profile",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\instructor\\\\instructor-profile.vue",
+    "chunkName": "pages/instructor/instructor-profile",
+    "_name": "_3067f618"
+  },
+  {
+    "name": "instructor-instructor-three",
+    "path": "/instructor/instructor-three",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\instructor\\\\instructor-three.vue",
+    "chunkName": "pages/instructor/instructor-three",
+    "_name": "_dc888d66"
+  },
+  {
+    "name": "instructor-instructor-two",
+    "path": "/instructor/instructor-two",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\instructor\\\\instructor-two.vue",
+    "chunkName": "pages/instructor/instructor-two",
+    "_name": "_3286e8bb"
+  },
+  {
+    "name": "shop-cart",
+    "path": "/shop/cart",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\cart.vue",
+    "chunkName": "pages/shop/cart",
+    "_name": "_c851f7d0"
+  },
+  {
+    "name": "shop-checkout",
+    "path": "/shop/checkout",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\checkout.vue",
+    "chunkName": "pages/shop/checkout",
+    "_name": "_3348233e"
+  },
+  {
+    "name": "shop-product-details",
+    "path": "/shop/product-details",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\product-details.vue",
+    "chunkName": "pages/shop/product-details",
+    "_name": "_6d0f819c"
+  },
+  {
+    "name": "shop-wishlist",
+    "path": "/shop/wishlist",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\wishlist.vue",
+    "chunkName": "pages/shop/wishlist",
+    "_name": "_6b0b9786"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\iSpan\\\\Downloads\\\\c1e060a2-0a48-4192-a951-cd132c4310fe~\\\\edublinkvuejs-10\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_13956cc0"
+  }
+]
