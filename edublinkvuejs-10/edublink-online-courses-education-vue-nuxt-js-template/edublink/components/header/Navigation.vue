@@ -12,7 +12,7 @@
                 <li><n-link to="/landing-demo">Landing Demo</n-link></li>
             </ul>
         </li>
-        <li class="has-droupdown"><n-link to="">Pages</n-link>
+        <li class="has-droupdown"><n-link to="">Pagesss</n-link>
             <ul class="mega-menu">
                 <li>
                     <h6 class="menu-title">Inner Pages</h6>

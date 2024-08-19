@@ -9,7 +9,22 @@
     "description": "Auto imported from components/InstagramPost.vue"
   },
   "About": {
-    "description": "Auto imported from components/about-us-one/About.vue"
+    "description": "Auto imported from components/about-us-three/About.vue"
+  },
+  "AboutUsThreeContactInfo": {
+    "description": "Auto imported from components/about-us-three/ContactInfo.vue"
+  },
+  "AboutUsThreeFunFact": {
+    "description": "Auto imported from components/about-us-three/FunFact.vue"
+  },
+  "AboutUsThreeInstructor": {
+    "description": "Auto imported from components/about-us-three/Instructor.vue"
+  },
+  "AboutUsThreeTestimonial": {
+    "description": "Auto imported from components/about-us-three/Testimonial.vue"
+  },
+  "AboutUsThreeWhyChoose": {
+    "description": "Auto imported from components/about-us-three/WhyChoose.vue"
   },
   "AboutUsOneFunFact": {
     "description": "Auto imported from components/about-us-one/FunFact.vue"
@@ -37,21 +52,6 @@
   },
   "AboutUsTwoVideo": {
     "description": "Auto imported from components/about-us-two/Video.vue"
-  },
-  "AboutUsThreeContactInfo": {
-    "description": "Auto imported from components/about-us-three/ContactInfo.vue"
-  },
-  "AboutUsThreeFunFact": {
-    "description": "Auto imported from components/about-us-three/FunFact.vue"
-  },
-  "AboutUsThreeInstructor": {
-    "description": "Auto imported from components/about-us-three/Instructor.vue"
-  },
-  "AboutUsThreeTestimonial": {
-    "description": "Auto imported from components/about-us-three/Testimonial.vue"
-  },
-  "AboutUsThreeWhyChoose": {
-    "description": "Auto imported from components/about-us-three/WhyChoose.vue"
   },
   "AnimationMouseMove": {
     "description": "Auto imported from components/animation/MouseMove.vue"
@@ -116,18 +116,6 @@
   "CtaCTAOneAlter": {
     "description": "Auto imported from components/cta/CTAOneAlter.vue"
   },
-  "EventList": {
-    "description": "Auto imported from components/event/EventList.vue"
-  },
-  "EventOne": {
-    "description": "Auto imported from components/event/EventOne.vue"
-  },
-  "EventSectionOne": {
-    "description": "Auto imported from components/event/EventSectionOne.vue"
-  },
-  "EventTwo": {
-    "description": "Auto imported from components/event/EventTwo.vue"
-  },
   "FooterKindergarten": {
     "description": "Auto imported from components/footer/FooterKindergarten.vue"
   },
@@ -155,32 +143,17 @@
   "FooterScrollToTop": {
     "description": "Auto imported from components/footer/ScrollToTop.vue"
   },
-  "HomeDistantLearningAbout": {
-    "description": "Auto imported from components/home-distant-learning/About.vue"
+  "EventList": {
+    "description": "Auto imported from components/event/EventList.vue"
   },
-  "HomeDistantLearningBanner": {
-    "description": "Auto imported from components/home-distant-learning/Banner.vue"
+  "EventOne": {
+    "description": "Auto imported from components/event/EventOne.vue"
   },
-  "HomeDistantLearningBlog": {
-    "description": "Auto imported from components/home-distant-learning/Blog.vue"
+  "EventSectionOne": {
+    "description": "Auto imported from components/event/EventSectionOne.vue"
   },
-  "HomeDistantLearningCategories": {
-    "description": "Auto imported from components/home-distant-learning/Categories.vue"
-  },
-  "HomeDistantLearningCourse": {
-    "description": "Auto imported from components/home-distant-learning/Course.vue"
-  },
-  "HomeDistantLearningFAQ": {
-    "description": "Auto imported from components/home-distant-learning/FAQ.vue"
-  },
-  "HomeDistantLearningFunFact": {
-    "description": "Auto imported from components/home-distant-learning/FunFact.vue"
-  },
-  "HomeDistantLearningLogo": {
-    "description": "Auto imported from components/home-distant-learning/Logo.vue"
-  },
-  "HomeDistantLearningVideo": {
-    "description": "Auto imported from components/home-distant-learning/Video.vue"
+  "EventTwo": {
+    "description": "Auto imported from components/event/EventTwo.vue"
   },
   "HeaderCategory": {
     "description": "Auto imported from components/header/Category.vue"
@@ -220,6 +193,33 @@
   },
   "HeaderSearchPopUp": {
     "description": "Auto imported from components/header/SearchPopUp.vue"
+  },
+  "HomeDistantLearningAbout": {
+    "description": "Auto imported from components/home-distant-learning/About.vue"
+  },
+  "HomeDistantLearningBanner": {
+    "description": "Auto imported from components/home-distant-learning/Banner.vue"
+  },
+  "HomeDistantLearningBlog": {
+    "description": "Auto imported from components/home-distant-learning/Blog.vue"
+  },
+  "HomeDistantLearningCategories": {
+    "description": "Auto imported from components/home-distant-learning/Categories.vue"
+  },
+  "HomeDistantLearningCourse": {
+    "description": "Auto imported from components/home-distant-learning/Course.vue"
+  },
+  "HomeDistantLearningFAQ": {
+    "description": "Auto imported from components/home-distant-learning/FAQ.vue"
+  },
+  "HomeDistantLearningFunFact": {
+    "description": "Auto imported from components/home-distant-learning/FunFact.vue"
+  },
+  "HomeDistantLearningLogo": {
+    "description": "Auto imported from components/home-distant-learning/Logo.vue"
+  },
+  "HomeDistantLearningVideo": {
+    "description": "Auto imported from components/home-distant-learning/Video.vue"
   },
   "HomeKitchenCoachAbout": {
     "description": "Auto imported from components/home-kitchen-coach/About.vue"
@@ -380,21 +380,6 @@
   "HomeUniversityVideo": {
     "description": "Auto imported from components/home-university/Video.vue"
   },
-  "InstructorFive": {
-    "description": "Auto imported from components/instructor/InstructorFive.vue"
-  },
-  "InstructorFour": {
-    "description": "Auto imported from components/instructor/InstructorFour.vue"
-  },
-  "InstructorOne": {
-    "description": "Auto imported from components/instructor/InstructorOne.vue"
-  },
-  "InstructorThree": {
-    "description": "Auto imported from components/instructor/InstructorThree.vue"
-  },
-  "InstructorTwo": {
-    "description": "Auto imported from components/instructor/InstructorTwo.vue"
-  },
   "HomeYogaInstructorAbout": {
     "description": "Auto imported from components/home-yoga-instructor/About.vue"
   },
@@ -421,6 +406,21 @@
   },
   "HomeYogaInstructorWhyChoose": {
     "description": "Auto imported from components/home-yoga-instructor/WhyChoose.vue"
+  },
+  "InstructorFive": {
+    "description": "Auto imported from components/instructor/InstructorFive.vue"
+  },
+  "InstructorFour": {
+    "description": "Auto imported from components/instructor/InstructorFour.vue"
+  },
+  "InstructorOne": {
+    "description": "Auto imported from components/instructor/InstructorOne.vue"
+  },
+  "InstructorThree": {
+    "description": "Auto imported from components/instructor/InstructorThree.vue"
+  },
+  "InstructorTwo": {
+    "description": "Auto imported from components/instructor/InstructorTwo.vue"
   },
   "LogoOne": {
     "description": "Auto imported from components/logo/LogoOne.vue"
