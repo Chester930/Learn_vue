@@ -1,8 +1,8 @@
 <template>
     <ul class="mainmenu">
-        <li class="has-droupdown"><n-link to="">Home</n-link>
+        <li class="has-droupdown"><n-link to="">首頁</n-link>
             <ul class="submenu">
-                <li><n-link to="/">EduBlink Education</n-link></li>
+                <li><n-link to="/">教育眨眼教育</n-link></li>
                 <li><n-link to="/distant-learning">Distant Learning</n-link></li>
                 <li><n-link to="/university">University</n-link></li>
                 <li><n-link to="/online-academy">Online Academy</n-link></li>

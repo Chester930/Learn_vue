@@ -12,9 +12,9 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_325c389c from 'nuxt_plugin_plugin_325c389c' // Source: .\\components\\plugin.js (mode: 'all')
-import nuxt_plugin_pluginserver_0b21374a from 'nuxt_plugin_pluginserver_0b21374a' // Source: .\\color-mode\\plugin.server.js (mode: 'server')
-import nuxt_plugin_pluginclient_b530747c from 'nuxt_plugin_pluginclient_b530747c' // Source: .\\color-mode\\plugin.client.js (mode: 'client')
+import nuxt_plugin_plugin_aed7a478 from 'nuxt_plugin_plugin_aed7a478' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_pluginserver_342aa522 from 'nuxt_plugin_pluginserver_342aa522' // Source: .\\color-mode\\plugin.server.js (mode: 'server')
+import nuxt_plugin_pluginclient_631d98cc from 'nuxt_plugin_pluginclient_631d98cc' // Source: .\\color-mode\\plugin.client.js (mode: 'client')
 import nuxt_plugin_vueawesomeswiper_5ce03f58 from 'nuxt_plugin_vueawesomeswiper_5ce03f58' // Source: ..\\plugins\\vue-awesome-swiper.js (mode: 'all')
 import nuxt_plugin_vuecoollightbox_66548a3b from 'nuxt_plugin_vuecoollightbox_66548a3b' // Source: ..\\plugins\\vue-cool-lightbox.js (mode: 'all')
 import nuxt_plugin_vue2googlemaps_51da65b7 from 'nuxt_plugin_vue2googlemaps_51da65b7' // Source: ..\\plugins\\vue2-google-maps.js (mode: 'all')
@@ -191,16 +191,16 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_325c389c === 'function') {
-    await nuxt_plugin_plugin_325c389c(app.context, inject)
+  if (typeof nuxt_plugin_plugin_aed7a478 === 'function') {
+    await nuxt_plugin_plugin_aed7a478(app.context, inject)
   }
 
-  if (process.server && typeof nuxt_plugin_pluginserver_0b21374a === 'function') {
-    await nuxt_plugin_pluginserver_0b21374a(app.context, inject)
+  if (process.server && typeof nuxt_plugin_pluginserver_342aa522 === 'function') {
+    await nuxt_plugin_pluginserver_342aa522(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_pluginclient_b530747c === 'function') {
-    await nuxt_plugin_pluginclient_b530747c(app.context, inject)
+  if (process.client && typeof nuxt_plugin_pluginclient_631d98cc === 'function') {
+    await nuxt_plugin_pluginclient_631d98cc(app.context, inject)
   }
 
   if (typeof nuxt_plugin_vueawesomeswiper_5ce03f58 === 'function') {
