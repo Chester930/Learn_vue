@@ -32,7 +32,7 @@
                 menus: [
                     {
                         url: '',
-                        title: 'Home',
+                        title: '首頁',
                         submenu: [
                             {
                                 url: '/',

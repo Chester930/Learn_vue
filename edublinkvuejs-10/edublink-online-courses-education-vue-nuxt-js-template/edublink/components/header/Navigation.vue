@@ -17,7 +17,7 @@
                 <li>
                     <h6 class="menu-title">Inner Pages</h6>
                     <ul class="submenu">
-                        <li><n-link to="/about-us-one">About Us 1</n-link></li>
+                        <li><n-link to="/about-us-one">About Us 111</n-link></li>
                         <li><n-link to="/about-us-two">About Us 2</n-link></li>
                         <li><n-link to="/about-us-three">About Us 3</n-link></li>
                         <li><n-link to="/instructor/instructor-one">Instructor 1</n-link></li>
